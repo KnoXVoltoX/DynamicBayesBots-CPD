@@ -1,3 +1,31 @@
+# Dynamic Bayes Bots with Change Point Detection (DBBCPD)
+**NOTE:** This project is based on the Kilosim simulator developed by Julia Ebert and Richard Barnes. 
+The contribution features the Dynamic Bayes Bots with change point detection an advanced approach of the former Dynamic Bayes Bots by Kai Pfister and Heiko Hamann.
+
+### Configuration of the DBBCPD
+You can change the parameters in the dynamicEnvironments-directory in the
+Config.json
+
+To run the Kilosim with dynamic environments go to the build-directory and compile the program with:
+$ cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -DCMAKE_INSTALL_PREFIX=../ ..
+$ make
+$ make install
+
+
+Go back to the source-directory:
+$ cd ..
+
+
+To run the simulation enter:
+./bin/dynamic_bayesBots dynamicEnvironments/Config.json
+
+# Plotting the data
+After the run you can plot your Data by starting the show_h5.py:
+$python3 show_h5.py test-log.h5
+
+
+
+
 # Kilosim: Kilobot Simulator
 
 ![Kilosim logo](docs/logo.svg)
