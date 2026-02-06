@@ -2,9 +2,9 @@
 **NOTE:** This project is based on the Kilosim simulator developed by Julia Ebert and Richard Barnes. 
 The contribution features the Dynamic Bayes Bots with change point detection an advanced approach of the former Dynamic Bayes Bots by Kai Pfister and Heiko Hamann.
 
-[Publication of the Dynamic Bayes Bots](https://ieeexplore.ieee.org/abstract/document/10341649)
+[Publication of the Dynamic Bayes Bots](https://ieeexplore.ieee.org/abstract/document/9982019)
 
-[Publication of the Dynamic Bayes Bots with Change Point Detection](https://ieeexplore.ieee.org/abstract/document/9982019)
+[Publication of the Dynamic Bayes Bots with Change Point Detection](https://ieeexplore.ieee.org/abstract/document/10341649)
 
 
 ### Configuration of the DBBCPD
