@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkilosim.a  CMakeFiles/kilosim.dir/src/ConfigParser.cpp.o CMakeFiles/kilosim.dir/src/LightPattern.cpp.o CMakeFiles/kilosim.dir/src/Logger.cpp.o CMakeFiles/kilosim.dir/src/Robot.cpp.o CMakeFiles/kilosim.dir/src/Viewer.cpp.o CMakeFiles/kilosim.dir/src/World.cpp.o CMakeFiles/kilosim.dir/src/random.cpp.o
+/usr/bin/ranlib libkilosim.a

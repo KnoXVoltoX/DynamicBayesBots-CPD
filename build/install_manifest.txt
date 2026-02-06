@@ -1,0 +1,2 @@
+/home/user/Desktop/Bayes Bots MA Kai Pfister/DynamicBayesBots CPD/lib/libkilosim.a
+/home/user/Desktop/Bayes Bots MA Kai Pfister/DynamicBayesBots CPD/bin/dynamic_bayesBots
